@@ -7,10 +7,13 @@ public class HelloJava {
 		System.out.println("Hello Java~~");
 		System.out.println("First Commit Work");
 		
-		// branch 추가 내용
+		// branch 횄횩째징 쨀쨩쩔챘
 		System.out.println("Second commit work");
-		
+		// 지역 저장소 내용추가
 		System.out.println("Third commit work");
+		//원격 저장소 내용 추가
+		System.out.println("github Update~~~");
+
 	}
 
 }
