@@ -9,6 +9,8 @@ public class HelloJava {
 		
 		// branch 추가 내용
 		System.out.println("Second commit work");
+		
+		System.out.println("Third commit work");
 	}
 
 }
